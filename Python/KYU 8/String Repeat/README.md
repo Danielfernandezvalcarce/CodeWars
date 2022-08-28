@@ -7,4 +7,5 @@ Write a function that accepts an integer n and a string s as parameters, and ret
 ## EXAMPLES
 
 6, "I"     -> "IIIIII"
+
 5, "Hello" -> "HelloHelloHelloHelloHello"
